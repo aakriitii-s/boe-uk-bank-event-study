@@ -62,7 +62,7 @@ Abnormal Returns .png
 
 ### Cumulative Abnormal Returns
 
-Cumulative Abnormal Returns.png
+[Cumulative Abnormal Returns.png](https://github.com/aakriitii-s/boe-uk-bank-event-study/blob/d12880960de1ab3fd5c5c97959c5f6d917eee0bc/Cumulative%20Abnormal%20Returns.png)
 
 ## Tools
 
