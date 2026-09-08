@@ -54,15 +54,15 @@ However, the ANOVA test did not find a statistically significant difference betw
 
 ### Relative Performance
 
-![Relative Performance](figures/relative_performance.png)
+relative performances.png
 
 ### Abnormal Returns Around MPC Decisions
 
-![Abnormal Returns](figures/average_abnormal_returns.png)
+Abnormal Returns .png
 
 ### Cumulative Abnormal Returns
 
-![Cumulative Abnormal Returns](figures/cumulative_abnormal_returns.png)
+Cumulative Abnormal Returns.png
 
 ## Tools
 
