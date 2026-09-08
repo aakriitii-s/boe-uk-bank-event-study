@@ -54,11 +54,13 @@ However, the ANOVA test did not find a statistically significant difference betw
 
 ### Relative Performance
 
-relative performances.png
+[relative performances.png
+](https://github.com/aakriitii-s/boe-uk-bank-event-study/blob/99fd71b3758f92962dc7722891f1cedb09f2b5d0/relative%20performances.png)
 
 ### Abnormal Returns Around MPC Decisions
 
-Abnormal Returns .png
+[Abnormal Returns .png
+](https://github.com/aakriitii-s/boe-uk-bank-event-study/blob/99fd71b3758f92962dc7722891f1cedb09f2b5d0/Abnormal%20Returns%20.png)
 
 ### Cumulative Abnormal Returns
 
